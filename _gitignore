@@ -1,0 +1,21 @@
+# Visual Studio / IDE Files and Folders
+.vs/
+*.suo
+*.user
+
+# Build Artifacts
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.aps
+*.bsc
+*.map
+*.idb
+*.res
+*.cache
